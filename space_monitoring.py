@@ -115,7 +115,6 @@ def send_email(audit_detail,img_path,html_path,audit_name,server_name,csv_data_s
                 csv_data_str])
 
 
-
 #databse connection string to pull the neccesary details
 config=cfg.ConfigParser()
 config.read('config.ini')

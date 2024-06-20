@@ -8,7 +8,7 @@ param(
     [string]$inputData
 )
 
-$PSEmailServer='alerts.smtp.ccaintranet.net'
+$PSEmailServer='smtp.gmail.com'
 
 
 #converting csv to dataframe
@@ -64,6 +64,6 @@ $sendMailMessageSplat = @{
     Attachments = $imageFilePath ,$htmlFilePath
     Priority = 'High'
     DeliveryNotificationOption = 'OnSuccess', 'OnFailure'
-    SmtpServer = 'alerts.smtp.ccaintranet.net'
+    SmtpServer = 'smtp.gmail.com'
 }
 Send-MailMessage @sendMailMessageSplat
