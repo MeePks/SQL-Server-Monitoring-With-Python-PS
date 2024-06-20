@@ -41,7 +41,6 @@ DECLARE @AttnFlag               AS TINYINT = 0
 DECLARE @LogText                AS VARCHAR(MAX)
 DECLARE @CurServerName Varchar(30)=@@SERVERNAME
 DECLARE @Cc VARCHAR(8000)='Pikesh.Maharjan@gmail.com;'
-
 SET @Subject = @Subject + ': Attention Needed'
 
 SET @Txt = @Txt + '<table border="1">'
