@@ -1,0 +1,108 @@
+,MountPoint,TotalSpaceTB,UsedSpaceTB,FreeSpaceTB,PercentFree,Remarks
+0,\Ahold\Data01\Data\,3.6,3.12,0.48,13.38%,OK
+1,\Ahold\Main01\Data\,9.0,7.98,1.02,11.36%,OK
+0,\Amazon\Data01\Data\,4.0,2.36,1.64,41.06%,OK
+1,\Amazon\Data02\Data\,6.0,4.51,1.49,24.84%,OK
+2,\Amazon\Data03\Data\,12.0,9.23,2.77,23.11%,OK
+3,\Amazon\Data04\Data\,12.0,10.14,1.86,15.54%,OK
+4,\Amazon\Main01\Data\,16.0,13.49,2.51,15.71%,OK
+5,\Amazon\Main02\Data\,16.02,14.48,1.53,9.57%,< 10%
+6,\Amazon\Main03\Data\,16.0,13.59,2.41,15.06%,OK
+7,\Amazon\MAIN04\Data\,4.0,2.95,1.05,26.30%,OK
+0,\AutoZoneMX\Main01\Data\,1.0,0.42,0.58,58.31%,OK
+0,\BestBuy\Data01\Data\,6.5,2.96,3.54,54.49%,OK
+1,\BestBuy\Data02\Data\,2.4,1.63,0.77,32.15%,OK
+2,\BestBuy\Derived01\Data\,4.0,1.74,2.25,56.39%,OK
+3,\BestBuy\Derived02\Data\,0.67,0.25,0.42,63.10%,OK
+4,\BestBuy\Derived03\Data\,3.78,1.85,1.94,51.22%,OK
+5,\BestBuy\Derived04\Data\,1.02,0.22,0.8,78.76%,OK
+6,\BestBuy\Main01\Data\,6.27,5.71,0.56,8.94%,< 10%
+0,\CanadianTire\Load01\Data\,1.07,0.98,0.09,8.49%,< 10%
+1,\CanadianTire\Main01\Data\,23.2,20.34,2.86,12.33%,OK
+0,\CVS\Load01\Data\,6.3,2.67,3.63,57.61%,OK
+1,\CVS\Main01\Data\,15.1,10.13,4.97,32.93%,OK
+0,\Delhaize\Main01\Data\,17.0,11.19,5.81,34.17%,OK
+1,\Delhaize\Temp01\Data\,0.63,0.2,0.43,67.88%,OK
+0,\GNC\Data01\Data\,1.29,0.32,0.97,75.31%,OK
+1,\GNC\Derived01\Data\,0.87,0.29,0.58,66.67%,OK
+2,\GNC\Load01\Data\,0.62,0.37,0.24,39.79%,OK
+3,\GNC\Main01\Data\,0.49,0.15,0.34,69.68%,OK
+0,\Homedepot\Data01\Data\,7.5,4.55,2.95,39.28%,OK
+1,\HomeDepot\Data02\Data\,2.8,2.67,0.13,4.61%,< 10%
+2,\Homedepot\Derived01\Data\,4.38,1.25,3.14,71.56%,OK
+3,\Homedepot\Derived02\Data\,4.61,3.06,1.55,33.65%,OK
+4,\Homedepot\Derived03\Data\,4.0,2.45,1.55,38.65%,OK
+5,\Homedepot\Derived04\Data\,6.1,4.19,1.91,31.36%,OK
+6,\Homedepot\Load01\Data\,3.25,1.85,1.4,43.10%,OK
+7,\HomeDepot\Main01\Data\,15.43,11.53,3.9,25.27%,OK
+8,\Homedepot\Main02\Data\,15.2,15.0,0.2,1.33%,< 10%
+9,\HomeDepot\Main03\Data\,1.98,1.4,0.58,29.44%,OK
+0,\Ingles\Main01\Data\,1.71,0.72,0.98,57.62%,OK
+0,\Jcp\Load01\Data\,20.0,16.69,3.31,16.55%,OK
+1,\Jcp\Main01\Data\,8.0,7.07,0.93,11.65%,OK
+0,\Kroger\Data01\Data\,1.1,0.79,0.31,28.45%,OK
+1,\Kroger\Data02\Data\,4.0,3.41,0.59,14.78%,OK
+2,\Kroger\Data03\Data\,10.2,9.36,0.84,8.25%,< 10%
+3,\Kroger\Data04\Data\,3.5,2.48,1.02,29.09%,OK
+4,\Kroger\Data05\Data\,4.0,3.29,0.71,17.79%,OK
+5,\Kroger\Data06\Data\,6.0,3.74,2.26,37.72%,OK
+6,\Kroger\Derived01\Data\,2.0,1.26,0.74,36.81%,OK
+7,\Kroger\Derived02\Data\,2.2,1.25,0.95,43.29%,OK
+8,\Kroger\Derived03\Data\,2.5,1.63,0.87,34.97%,OK
+9,\Kroger\Derived04\Data\,0.5,0.23,0.27,54.10%,OK
+10,\Kroger\Derived05\Data\,1.6,0.43,1.17,72.93%,OK
+11,\Kroger\Main01\Data\,7.0,6.73,0.27,3.87%,< 10%
+12,\Kroger\Main02\Data\,14.0,13.31,0.69,4.95%,< 10%
+0,\Loblaws\Data1\Data\,2.2,0.01,2.19,99.77%,OK
+1,\Loblaws\Logs\,3.5,0.05,3.45,98.72%,OK
+2,\Loblaws\Main01\Data\,14.0,14.0,0.0,0.00%,< 10%
+3,\Loblaws\Main02\Data\,17.0,15.6,1.4,8.25%,< 10%
+4,\Loblaws\Main03\Data\,15.5,13.64,1.86,11.99%,OK
+5,\Loblaws\Main04\Data\,7.0,4.19,2.81,40.08%,OK
+6,\Loblaws\NoDeploy\Data\,0.2,0.01,0.18,94.34%,OK
+0,\Lowes\Data01\Data\,5.0,2.53,2.47,49.35%,OK
+1,\Lowes\Data02\Data\,2.54,1.15,1.39,54.59%,OK
+2,\Lowes\Data03\Data\,6.0,4.35,1.65,27.47%,OK
+3,\Lowes\Data05\Data\,0.54,0.21,0.33,61.28%,OK
+4,\Lowes\Data06\Data\,2.01,0.28,1.73,86.12%,OK
+5,\Lowes\Derived01\Data\,1.67,0.4,1.27,76.04%,OK
+6,\Lowes\Derived02\Data\,3.48,2.13,1.35,38.83%,OK
+7,\Lowes\Derived03\Data\,0.64,0.27,0.37,57.52%,OK
+8,\Lowes\Derived04\Data\,1.5,0.73,0.77,51.48%,OK
+9,\Lowes\Derived05\Data\,0.25,0.07,0.18,71.71%,OK
+10,\Lowes\Derived06\Data\,4.0,1.45,2.55,63.70%,OK
+11,\Lowes\Load01\Data\,3.0,2.02,0.98,32.58%,OK
+12,\Lowes\Load02\Data\,0.49,0.28,0.21,43.51%,OK
+13,\Lowes\Main01\Data\,7.0,4.97,2.03,28.95%,OK
+0,\Meijer\Data01\Data\,5.0,2.59,2.41,48.21%,OK
+1,\Meijer\Data02\Data\,5.0,2.67,2.33,46.67%,OK
+2,\Meijer\Data03\Data\,4.0,1.1,2.9,72.56%,OK
+3,\Meijer\Data04\Data\,1.0,0.12,0.88,87.98%,OK
+4,\Meijer\Derived01\Data\,7.0,3.93,3.07,43.93%,OK
+5,\Meijer\Load01\Data\,4.0,0.76,3.24,81.05%,OK
+6,\Meijer\Main02\Data\,5.0,3.43,1.57,31.45%,OK
+0,\Overwaitea\Main01\Data\,3.0,2.14,0.86,28.78%,OK
+0,\Petsmart\Main01\Data\,12.5,8.67,3.83,30.66%,OK
+0,\RiteAid\Data01\Data\,4.33,3.67,0.66,15.21%,OK
+1,\RiteAid\Data02\Data\,0.84,0.56,0.28,33.37%,OK
+2,\RiteAid\Data03\Data\,1.92,0.9,1.02,53.17%,OK
+3,\RiteAid\Main01\Data\,3.05,1.96,1.09,35.82%,OK
+0,\Rona\Data01\Data\,3.5,2.02,1.48,42.43%,OK
+1,\Rona\Derived01\Data\,1.5,0.6,0.9,60.12%,OK
+2,\Rona\Load01\Data\,1.0,0.49,0.51,51.27%,OK
+3,\Rona\Main01\Data\,2.5,1.75,0.75,29.87%,OK
+0,\StaplesUS\Main01\Data\,8.0,6.45,1.55,19.39%,OK
+1,\StaplesUS\NoDeploy\Data\,0.78,0.57,0.21,27.02%,OK
+0,\VitaminShoppe\Main01\Data\,0.39,0.32,0.07,17.99%,OK
+0,\Wakefern\Main01\Data\,3.0,2.31,0.69,23.07%,OK
+0,\Walgreens\Data01\Data\,10.0,7.7,2.3,22.97%,OK
+1,\Walgreens\Data02\Data\,5.0,1.43,3.57,71.38%,OK
+2,\Walgreens\Data03\Data\,1.0,0.42,0.58,58.25%,OK
+3,\Walgreens\Data04\Data\,8.0,3.43,4.57,57.08%,OK
+4,\Walgreens\Derived01\Data\,3.0,1.55,1.45,48.20%,OK
+5,\Walgreens\Derived02\Data\,5.0,0.87,4.13,82.64%,OK
+6,\Walgreens\Derived03\Data\,0.49,0.02,0.47,96.55%,OK
+7,\Walgreens\Derived04\Data\,1.0,0.27,0.73,73.30%,OK
+8,\Walgreens\Main02\Data\,10.0,6.85,3.15,31.54%,OK
+9,\Walgreens\Main03\Data\,18.0,12.32,5.68,31.54%,OK
+0,\WalmartMX\MAIN01\Data\,12.2,10.7,1.5,12.29%,OK
